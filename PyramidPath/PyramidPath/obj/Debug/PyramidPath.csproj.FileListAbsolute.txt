@@ -1,0 +1,7 @@
+c:\users\donatas\source\repos\PyramidPath\PyramidPath\bin\Debug\PyramidPath.exe.config
+c:\users\donatas\source\repos\PyramidPath\PyramidPath\bin\Debug\PyramidPath.exe
+c:\users\donatas\source\repos\PyramidPath\PyramidPath\bin\Debug\PyramidPath.pdb
+c:\users\donatas\source\repos\PyramidPath\PyramidPath\obj\Debug\PyramidPath.csprojAssemblyReference.cache
+c:\users\donatas\source\repos\PyramidPath\PyramidPath\obj\Debug\PyramidPath.csproj.CoreCompileInputs.cache
+c:\users\donatas\source\repos\PyramidPath\PyramidPath\obj\Debug\PyramidPath.exe
+c:\users\donatas\source\repos\PyramidPath\PyramidPath\obj\Debug\PyramidPath.pdb
